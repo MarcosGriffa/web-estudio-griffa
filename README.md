@@ -3,7 +3,7 @@
 Este repositorio contiene el código fuente para el nuevo sitio web de **Estudio Griffa** (Adjusters - Marine Surveyors & Consultants), un proyecto de transformación digital enfocado en la modernización de la identidad visual y la optimización del rendimiento para una firma con más de 60 años de trayectoria.
 
 <div align="center">
-  <img src="<img width="2048" height="2048" alt="logotipo-estudio-griffa" src="https://github.com/user-attachments/assets/88792904-9571-44e1-8761-f42243f380f6" />" alt="Logo Estudio Griffa HD" width="150">
+    <img src="logotipo-estudio-griffa.png" alt="Logo Estudio Griffa HD" width="150">
 </div>
 
 ## 📊 Descripción del Proyecto
@@ -20,13 +20,13 @@ Esta sección visualiza la auditoría de diseño y la ejecución técnica.
   <tr>
     <td width="50%" align="center">
       <h3>Estado Original (Antes)</h3>
-      <img src="![web-estudio-griffa-antigua](https://github.com/user-attachments/assets/3b4dcd1b-d395-45a5-98ae-07a1a960c61c)" alt="Web Antigua Estudio Griffa" width="100%">
-      <p align="left"><i>❌ No responsivo, diseño obsoleto, sin certificado SSL, copywriting poco directo, uso de tecnologías obsoletas.</i></p>
+      <img src="web-estudio-griffa-antigua.jpeg" alt="Web Antigua" width="100%">
+      <p align="left"><i>❌ No responsivo, diseño obsoleto...</i></p>
     </td>
     <td width="50%" align="center">
       <h3>Estado Final (Después)</h3>
-      <img src="![web-estudio-griffa-nueva](https://github.com/user-attachments/assets/0d68e3ba-38fb-4e98-850d-874165237844)" alt="Nueva Web Estudio Griffa" width="100%">
-      <p align="left"><i>✅ Diseño responsivo y minimalista, optimización de imágenes (HD), seguridad SSL, copywriting profesional, arquitectura Jamstack.</i></p>
+      <img src="web-estudio-griffa-nueva.jpeg" alt="Web Nueva" width="100%">
+      <p align="left"><i>✅ Diseño responsivo y minimalista...</i></p>
     </td>
   </tr>
 </table>
